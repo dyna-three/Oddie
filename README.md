@@ -12,4 +12,10 @@
 ## Note
 > You need to load `New Ping` and `Servo` libraries from the PlatformIO library manager before running. More details about PlatformIO [here](https://platformio.org)
 
->This Project was made for the Dept. of Robotics & Automation, SNU
+>This Project was made for and by the Dept. of Robotics & Automation.
+>
+>Contributions by:-
+>Our HoD, Dr. Paramananda Nandihal
+>[Utkaarsh Saha](https://github.com/Kishou-Arima)
+>[Nilanjana Roy Choudhury](https://github.com/Nilandita)
+>[Niladri Das](https://github.com/nil-2)
