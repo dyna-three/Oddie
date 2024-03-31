@@ -15,7 +15,7 @@
 >This Project was made for and by the Dept. of Robotics & Automation.
 >
 >Contributions by:-
->Our HoD, Dr. Paramananda Nandihal
->[Utkaarsh Saha](https://github.com/Kishou-Arima)
->[Nilanjana Roy Choudhury](https://github.com/Nilandita)
->[Niladri Das](https://github.com/nil-2)
+> - Our HoD, Dr. Paramananda Nandihal
+> - [Utkaarsh Saha](https://github.com/Kishou-Arima)
+> - [Nilanjana Roy Choudhury](https://github.com/Nilandita)
+> - [Niladri Das](https://github.com/nil-2)
