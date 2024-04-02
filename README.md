@@ -18,4 +18,3 @@
 > - Our HoD, Dr. Paramananda Nandihal
 > - [Utkaarsh Saha](https://github.com/Kishou-Arima)
 > - [Nilanjana Roy Choudhury](https://github.com/Nilandita)
-> - [Niladri Das](https://github.com/nil-2)
